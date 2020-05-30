@@ -16,7 +16,7 @@
 	session_start();
       if (isset($_GET['LoginO'])) {
       ?><script type="text/javascript">
-      	alert("login failed");
+      	alert("login faileds");
       </script>
      <?php }
 	?>
